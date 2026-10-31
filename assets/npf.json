@@ -1,0 +1,17 @@
+{
+    "baasHost": "a6913b7b80402974409b47079c29d775.baas.nintendo.com",
+    "purchaseMock": false,
+    "clientId": "5dbf84c0c704b31b",
+    "accountHost": "",
+    "accountApiHost": "",
+    "pointProgramHost": "",
+    "basicAuthUser": "not_required_in_production",
+    "basicAuthPass": "not_required_in_production",
+    "printLog": false,
+    "debugLog": false,
+    "immediateReporting": true,
+    "reportingPeriod": -1,
+    "marketForSandbox": "",
+    "appIdentifierPrefix": "MF72D3S92L",
+    "disableUsingGoogleAdvertisingId": true
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo>
+	<Project Name="Booster" GUID="{54FD2C2B-D733-4765-86C6-C70FB1B832F2}" Generator="2023.1.14.8770"/>
+	<CacheRoot>../../../../../../Raw/Audio/Wwise/Booster/.cache</CacheRoot>
+	<Platforms>
+		<Platform Name="Android" GUID="{CD22A086-9FB6-4EBA-9D99-AABE833BD7C5}" BasePlatform="Android" BasePlatformGUID="{A2D401DE-B8B6-4FEB-8142-137C34D507CA}" Path="../../../../../../Raw/Audio/Wwise/Booster/GeneratedSoundBanks/Android"/>
+		<Platform Name="iOS" GUID="{B1C93F25-F79D-4346-83BC-48C9E7F0D45A}" BasePlatform="iOS" BasePlatformGUID="{ECE03DB4-F948-462D-B2BB-A9173012B1F8}" Path="../../../../../../Raw/Audio/Wwise/Booster/GeneratedSoundBanks/iOS"/>
+		<Platform Name="Windows" GUID="{DC833EB7-E3C3-45E0-911E-F1CB8B1AF089}" BasePlatform="Windows" BasePlatformGUID="{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}" Path="../../../../../../Raw/Audio/Wwise/Booster/GeneratedSoundBanks/Windows"/>
+	</Platforms>
+	<Languages>
+		<Language Name="English(US)" Id="684519430" GUID="{569A3AF6-8CFB-47F4-8F00-16ECFAF75A4F}" Default="true" UseAsStandIn="true"/>
+	</Languages>
+	<FileHash>{C2E85449-E2BC-09FF-B6CD-9E1D291B13A9}</FileHash>
+</ProjectInfo>
